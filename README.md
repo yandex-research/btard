@@ -8,6 +8,11 @@ _Eduard Gorbunov*, Alexander Borzunov*, Michael Diskin, Max Ryabinin_
 
 [**[PDF]** arxiv.org](https://arxiv.org/pdf/2106.11257)
 
+<p align="center">
+    <img src="https://github.com/yandex-research/btard/blob/main/img/btard_scheme.png">
+    <p align="center">An intuitive scheme of the proposed algorithm (BTARD-SGD)</p>
+</p>
+
 ## Overview
 
 The code is organized as follows:
