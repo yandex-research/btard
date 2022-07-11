@@ -2,15 +2,14 @@
 
 This repository contains the implementation of experiments from the paper
 
-**"Secure Distributed Training at Scale"**
+**"Secure Distributed Training at Scale"** (ICML 2022)
 
 _Eduard Gorbunov*, Alexander Borzunov*, Michael Diskin, Max Ryabinin_
 
 [**[PDF]** arxiv.org](https://arxiv.org/pdf/2106.11257)
 
 <p align="center">
-    <img src="https://github.com/yandex-research/btard/blob/main/img/btard_scheme.png">
-    <p align="center">An intuitive scheme of the proposed algorithm (BTARD-SGD)</p>
+    <img src="https://github.com/yandex-research/btard/blob/main/img/btard_poster.png">
 </p>
 
 ## Overview
